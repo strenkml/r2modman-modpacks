@@ -1,6 +1,6 @@
 {
     "name": "Sandbox",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/strenkml/r2modman-modpacks",
     "description": "A modpack for the Sandbox Discord server.",
     "dependencies": [
@@ -43,7 +43,6 @@
         "wildbook-TooManyFriends-1.2.1",
         "Nox-BetterMultiplayer-1.1.1",
         "RiskofThunder-HookGenPatcher-1.2.3",
-        "Sandbox-Sandbox-1.0.0",
         "FunkFrog-and-Sipondo-ShareSuite-2.8.1"
     ]
 }
